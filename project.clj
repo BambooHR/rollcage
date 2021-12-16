@@ -19,7 +19,7 @@
                  [prismatic/schema "1.1.9"]
                  [clj-stacktrace "0.2.8"]
                  [org.clojure/core.memoize "1.0.236"]
-                 [org.clojure/tools.logging "0.4.0"]]
+                 [org.clojure/tools.logging "1.2.2"]]
   :plugins [[lein-cloverage "1.0.6"]
             [lein-shell "0.5.0"]
             [lein-pprint "1.1.1"]
